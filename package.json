@@ -1,0 +1,22 @@
+{
+  "name": "gizmo",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "gizmo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricaDSC/Gizmo.git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "EricaDSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricaDSC/Gizmo/issues"
+  },
+  "homepage": "https://github.com/EricaDSC/Gizmo#readme"
+}
