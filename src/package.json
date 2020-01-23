@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EricaDSC/Gizmo/issues"
   },
-  "homepage": "https://github.com/EricaDSC/Gizmo#readme"
+  "homepage": "https://github.com/EricaDSC/Gizmo#readme",
+  "dependencies": {
+    "request-promise": "^4.2.5"
+  }
 }
